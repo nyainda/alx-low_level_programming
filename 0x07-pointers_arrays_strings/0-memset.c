@@ -1,11 +1,12 @@
 #include "main.h"
-
+#include <stdio.h>
 /**
- * _memset - prints buffer in hexa
- * @s: buffer
- * @b: write
- * @n: size
- * Return: Nothing.
+ * _memset - fills memory with a constant byte
+ * @s: memory space to be filled
+ * @size: the size of the memory to print
+ * @buffer: the address of memory to print
+ *
+ * Return: Nothing
  */
 char *_memset(char *s, char b, unsigned int n)
 {
