@@ -1,7 +1,7 @@
-#include "mainn.h"
+#include "main.h"
 
 /**
- * main - check the code
+ * _pow_recursion - main - check the code
  * @x: number
  * @y: number of power
  * Return: Always 0.

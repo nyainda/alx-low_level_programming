@@ -1,7 +1,7 @@
 #include "main.h"
 
 /**
- * main - check the code
+ * long_1 - main - check the code
  * @s: number
  *
  * Return: Always 0.
@@ -17,7 +17,7 @@ int long_1(char *s)
 
 }
 /**
- * main - check the code
+ * compare - main - check the code
  * @s: number
  * @l: lenght
  *

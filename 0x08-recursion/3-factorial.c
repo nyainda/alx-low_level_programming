@@ -1,7 +1,7 @@
 #include "main.h"
 
 /**
- * main - check the code
+ * factorial - main - check the code
  * @n: number of factorial
  * Return: Always 0.
  */

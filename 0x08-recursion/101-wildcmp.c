@@ -1,7 +1,7 @@
 #include "main.h"
 
 /**
- * main - check the code
+ * test - main - check the code
  * @s5: string to compare
  * @s6: wildcard match to compare
  * @t5: first spot that was checked
@@ -19,7 +19,7 @@ char *test(char *s5, char *s6, char *t5, char *t6)
 		return (test(s5 + 1, s6 + 1, t5, t6));
 }
 /**
- * main - check the code
+ * wildcard - main - check the code
  * @s3: string to compare to
  * @s4: string to check
  *
@@ -37,7 +37,7 @@ char *wildcard(char *s3, char *s4)
 }
 
 /**
- * main - check the code
+ * wildcmp - compares two strings
  * @s1: first string
  * @s2: second string, may contain wildcard *
  *

@@ -1,7 +1,7 @@
 #include "main.h"
 
 /**
- * main - check the code
+ * sqrt_a - main - check the code
  * @a: number
  * @b: number of power
  * Return: Always 0.
@@ -21,7 +21,7 @@ int sqrt_a(int a, int b)
 }
 
 /**
- * main - check the code
+ * _sqrt_recursion - main - check the code
  * @n: number
  *
  * Return: Always 0.
